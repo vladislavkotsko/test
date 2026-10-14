@@ -4,4 +4,5 @@ public class Main {
     }
 
     public static void test() {}
+    public static void salamaleikum() {}
 }
